@@ -26,6 +26,8 @@ Jetty;
 
 HikariCP
 
+Jetty
+
 JWT - Para geração de token
 
 ### Camadas e pacotes ###
