@@ -38,11 +38,11 @@
 			<artifactId>spring-boot-starter-jetty</artifactId>
 		</dependency>
 
-		<dependency>
+<!--		<dependency>
 			<groupId>com.oracle</groupId>
 			<artifactId>ojdbc6</artifactId>
 			<version>11.2.0</version>
-		</dependency>
+		</dependency>-->
 
 		<!-- DataSource (HikariCP) -->
 		<dependency>

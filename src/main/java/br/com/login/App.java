@@ -9,7 +9,7 @@ import org.springframework.context.annotation.PropertySource;
 
 @SpringBootApplication
 @Configuration
-@PropertySource("file:/opt/jetty/webapps/configs/login/login.properties")
+@PropertySource("file:login.properties")
 public class App extends SpringBootServletInitializer {
 
     @Override
